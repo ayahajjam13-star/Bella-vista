@@ -7,7 +7,8 @@ Site web élégant pour un restaurant italien, avec menu interactif et design lu
 
 ## 🔗 Demo Live
 
-👉 **[Voir le site en ligne]([[https://bella-vista-n8qb.vercel.app]](https://bella-vista-n8qb.vercel.app))**
+👉 **[Voir le site en ligne]
+https://bella-vista-n8qb.vercel.app]](https://bella-vista-n8qb.vercel.app
 
 ## 🛠 Technologies
 
